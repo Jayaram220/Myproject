@@ -4,6 +4,7 @@
 
 int Findsqre(int sq)
 {
+	printf("patti");
 	return sq*sq;
 }
 
