@@ -1,0 +1,50 @@
+vi filename
+
+i -- insert contents
+
+esc-- move to escape mode that is command mode u can give commands sucha  as d to move next line
+
+a -- write after cursor
+
+A -- write at the end of line
+
+u -- undo last change
+
+U --- undo all changes to entire line
+
+o -- open new line
+
+dd - delete line 
+
+3dd -delete 3 line
+
+D -- delete contents of the line after cursor
+
+dw -- delete word
+
+4dw -- delete 4 words
+
+cw -- change word
+
+x -- delete charector at cursor
+
+r -- replace charector
+
+R -- ower write charector from cursor own wards
+
+s - substitute one charector under cursor
+
+S -- substitute entire line
+
+shift+zz -- save and quit from editor
+w: save the file but keep it on
+
+:q quit without saving
+
+:wq save the file and quit
+
+
+
+
+
+
